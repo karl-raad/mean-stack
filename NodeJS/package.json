@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karl-raad/mern-stack.git"
+  },
+  "author": "Karl RAAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karl-raad/mern-stack/issues"
+  },
+  "homepage": "https://github.com/karl-raad/mern-stack#readme",
+  "devDependencies": {
+    "@angular/cli": "^17.1.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "node": "^21.6.1"
+  }
+}
